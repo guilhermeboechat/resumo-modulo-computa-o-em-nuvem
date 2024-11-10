@@ -1,1 +1,6 @@
 # resumo-modulo-computa-o-em-nuvem
+A computação em nuvem é uma tecnologia que permite o acesso remoto a recursos computacionais, como armazenamento e processamento, por meio da internet. Esse modelo oferece vantagens como escalabilidade, flexibilidade e redução de custos, tornando-se uma escolha popular para empresas de diversos setores.
+
+Na nuvem, os tipos de renderização de aplicações web são adaptáveis. Por exemplo, com frameworks como o Next.js, é possível escolher entre diferentes métodos de renderização para otimizar o desempenho e a experiência do usuário, como SSR (Server-Side Rendering), que renderiza conteúdo no servidor; SPA (Single Page Application), onde o conteúdo é atualizado dinamicamente no navegador; e SSG (Static Site Generation), ideal para conteúdo estático.
+
+A computação em nuvem também lida com dois tipos principais de despesas. O CapEx (Capital Expenditure) refere-se aos investimentos em infraestrutura física de longo prazo, como servidores e data centers, enquanto o OpEx (Operational Expenditure) cobre custos operacionais recorrentes, como luz, internet e licenciamento de software. Essa divisão entre CapEx e OpEx ajuda empresas a planejarem seus gastos e controlarem o orçamento de TI com eficiência, maximizando os benefícios da virtualização e da infraestrutura em nuvem.
