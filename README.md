@@ -1,0 +1,1 @@
+# resumo-modulo-computa-o-em-nuvem
